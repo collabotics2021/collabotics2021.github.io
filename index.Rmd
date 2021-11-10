@@ -1,0 +1,80 @@
+---
+ title: "UGA, RUB & UT Workshop"
+ site: distill::distill_website
+ 
+---
+
+<div style="width: 30%; float: right;">
+
+
+
+#### Sponsors
+
+```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
+knitr::include_graphics("imgs/ut2.png")
+```
+
+-----
+
+```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/uga2.png")
+```
+
+-----
+
+```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/cnrs.png")
+```
+
+-----
+
+
+```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
+knitr::include_graphics("imgs/region.png")
+```
+
+-----
+
+
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/c_air.png")
+```
+
+
+</div>
+
+
+ 
+<div style="width: 65%; float: left;">
+
+
+The 2021 UGA, RUB & UT Workshop is a collaborative workshop between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba.
+
+Our workshop will consist of sessions of oral presentations and poster presentations. Students, young researchers, and professors from both universities are welcome to present their current or past research in our workshop! We hope that through our workshop, students and professors from both universities can discuss their respective research topics and find opportunities for future collaborations.
+
+<!-- The main goal is to to accelerate the future preparation for Double -->
+<!-- Degree Program (DDP) between the University of Tsukuba and Univeristy of Grenoble-Alpes and to enhance the internationality and independence of mind of students of both universities.   -->
+
+
+### Worshop Implementation
+
+The UGA, RUB & UT Workshop is pleased to announce the full virtual conference program schedule.
+
+### Important Information
+
+#### Workshop dates
+
+TBA
+<!-- - December 16-17, 2021 -->
+<!-- - START: 16:00 Japan Time - 08:00 Paris Time. -->
+<!-- - END: 20:00 Japan Time - 12:00 Paris Time. -->
+
+#### Submission procedures
+
+TBA
+
+<!-- If you want to present at our workshop, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757). -->
+
+<!-- For more information see the [registration](https://uga-ut-ws.github.io/registration) section. -->
+
+</div>

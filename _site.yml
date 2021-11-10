@@ -1,0 +1,23 @@
+name: "UGA & UT workshop"
+output_dir: "."
+base_url: https://https://uga-ut-ws.github.io/
+navbar:
+  title: "UGA & UT workshop"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Program"
+      href: program.html
+    - text: "Registration & Submission"
+      href: registration.html
+    - text: "Spotlight Video"
+      href: video.html
+    - text: "Committee"
+      href: committee.html
+  right:
+    - icon: fa-envelope
+      href: mailto:lavinas.yuri.xp@alumni.tsukuba.ac.jp
+    - icon: src="imgs/ut2.png"
+      href: http://www.tsukuba.ac.jp/en/
+html_document:
+    css: style.css

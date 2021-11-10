@@ -1,0 +1,322 @@
+---
+ title: "Spotlight Video"
+ site: distill::distill_website
+ 
+---
+
+
+
+<div style="width: 30%; float: right;">
+
+
+
+#### Sponsors
+
+
+```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
+knitr::include_graphics("imgs/ut2.png")
+```
+
+-----
+
+```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/uga2.png")
+```
+
+-----
+
+```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/cnrs.png")
+```
+
+-----
+
+
+```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
+knitr::include_graphics("imgs/region.png")
+```
+
+
+-----
+
+
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/c_air.png")
+```
+
+
+</div>
+
+
+ 
+<div style="width: 65%; float: left;">
+
+### Want to have an idea about what the poster presentations will be about? You can check their spotlight videos here!
+
+-----
+
+TBA
+
+<!-- ### 01: Fujinaka	Ayano -->
+<!-- #### Segmentation of intervertebral disks from videofluorography based on CNN, multi-channelization, and feature selection -->
+
+<!-- This research contains sensitive information on hospitalised patients. Therefore, we cannot make public the data on the website. -->
+<!-- Here at the website, we can download the password-protected zip files with the Spotlight video and slides. -->
+<!-- For more information and access to the password, please contact Fujinaka Ayano by [e-mail](mailto:s1830149@s.tsukuba.ac.jp). -->
+
+<!-- We appreciate your understanding. -->
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/spotlight_video.zip "Fujinaka") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Slides -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight slides](videos/Fujinaka/Spotlight_slides.png)](videos/Fujinaka/splotlight_slides.zip "Fujinaka") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ----- -->
+
+<!-- ----- -->
+
+<!-- ### 02: Guoqing Hao -->
+<!-- #### Image Harmonization With Attention- based Deep Feature Modulation. -->
+
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/Hao/Spotlight_slides.png)](videos/Hao/UGA_UT_hao_spotlight.mp4 "Hao") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- - Slides -->
+
+<!-- [![Spotlight slides](videos/Hao/Spotlight_slides.png)](videos/Hao/UGA_UT_hao_spotlight.pdf "Hao") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ----- -->
+
+<!-- ----- -->
+
+<!-- ### 03: Rita Suzana -->
+<!-- #### Image Harmonization With Attention- based Deep Feature Modulation. -->
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/suzana/Spotlight_slides.png)](videos/suzana/suzana_spotlight_slides.mp4 "suzana") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Slides -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight slides](videos/suzana/Spotlight_slides.png)](videos/suzana/suzana_spotlight_slides.pdf "suzana") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+
+
+
+<!-- ### 04: Masanori Muroi -->
+<!-- #### Fingerspelling Recognition with Two-Steps Cascade Process of Spotting and Classification -->
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/PosterKit_Muroi/Spotlight_slides.png)](videos/PosterKit_Muroi/SpotlightVideo_Muroi.mp4 "PosterKit_Muroi") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Poster -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight slides](videos/PosterKit_Muroi/Spotlight_slides.png)](videos/PosterKit_Muroi/SpotlightSlide_Muroi.pptx "PosterKit_Muroi") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ### 05: Yifan He -->
+<!-- #### Parameter Evolution Self-Adaptive Strategy -->
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.mp4 "Yifan") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Slides -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight video](videos/yifan/Spotlight_slides.png)](videos/yifan/Yifan He.pdf "Yifan") -->
+
+<!-- ----- -->
+<!-- </div> -->
+
+<!-- ### 06: Yue Qiu -->
+<!-- #### Multi-View Visual Question Answering with Active Viewpoint Selection -->
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020.mp4 "Qiu") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Slides -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight video](videos/qiuyue/Spotlight_slides.png)](videos/qiuyue/multiview VQA_qiuyue_tsukuba_2020_spotlight.pdf "Qiu") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ### 07: Naoya Sogi -->
+<!-- #### Metric learning method for subspace-based image-set recognition -->
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/07_Naoya Sogi/Spotlight_slides.png)](videos/07_Naoya Sogi/sogi_spotlight.mp4 "Sogi") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- - Slides -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- [![Spotlight slides](videos/07_Naoya Sogi/Spotlight_slides.png)](videos/07_Naoya Sogi/sogi_spotlight.pdf "Sogi") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ----- -->
+
+
+<!-- ### 08: Shimomoto Erica	 -->
+<!-- #### Text classification based on the word subspace representation. -->
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlightvideo.mp4 "Erica") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- - Slides -->
+
+<!-- [![Spotlight slides](videos/Erica/Spotlight_slides.png)](videos/Erica/spotlight_slides.pdf "Erica") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ----- -->
+
+<!-- ----- -->
+
+<!-- ### 09: Souza	Lincon	 -->
+<!-- #### An Interface between Grassmann manifolds and vector spaces -->
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_video_02.mp4 "Lincon") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- - Slides -->
+
+<!-- [![Spotlight slides](videos/Lincon/spotlight_slides_02.png)](videos/Lincon/spotlight_slides_02.pdf "Lincon") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- ----- -->
+
+<!-- ### 10: Mohamad Jouni -->
+<!-- #### Feature Extraction of Multimodal Images Based on Tensor Decomposition and Mathematical Morphology -->
+
+
+<!-- <div style="width: 49%; float: left">  -->
+
+<!-- - Video -->
+
+<!-- [![Spotlight video](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_video.mp4 "jouni") -->
+
+<!-- ----- -->
+
+<!-- </div> -->
+
+<!-- <div style="width: 49%; float: right">  -->
+
+<!-- - Slides -->
+
+<!-- [![Spotlight slides](videos/jouni/spotlight_slide.png)](videos/jouni/spotlight_slide.pdf "jouni") -->
+
+<!-- ----- -->
+
+</div>
+
+</div>
