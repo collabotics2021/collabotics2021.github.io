@@ -48,7 +48,7 @@ knitr::include_graphics("imgs/c_air.png")
 <div style="width: 65%; float: left;">
 
 
-The 2021 UGA, RUB & UT Workshop is a collaborative workshop between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba.
+The 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - Recent Trends in Computer Science (CollaboTICS 2021) is a collaborative workshop between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba.
 
 Our workshop will consist of sessions of oral presentations and poster presentations. Students, young researchers, and professors from both universities are welcome to present their current or past research in our workshop! We hope that through our workshop, students and professors from both universities can discuss their respective research topics and find opportunities for future collaborations.
 
@@ -58,7 +58,7 @@ Our workshop will consist of sessions of oral presentations and poster presentat
 
 ### Worshop Implementation
 
-The UGA, RUB & UT Workshop is pleased to announce the full virtual conference program schedule.
+The CollaboTICS 2021 is pleased to announce the full virtual conference program schedule.
 
 ### Important Information
 

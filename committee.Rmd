@@ -61,7 +61,7 @@ knitr::include_graphics("imgs/c_air.png")
 
 #### Bojan Batalo	
 PhD Student
-```{r Bojan, echo=FALSE, out.width = '67%', fig.align='left'}
+```{r Bojan, echo=FALSE, out.width = '89%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -81,8 +81,8 @@ knitr::include_graphics("imgs/joshua.jpg")
 
 #### Jouni	Mohamad
 Post-Doc	Student
-```{r JOUNI, echo=FALSE, out.width = '64%', fig.align='left'}
-knitr::include_graphics("imgs/jouni.jpg")
+```{r JOUNI, echo=FALSE, out.width = '86%', fig.align='left'}
+knitr::include_graphics("imgs/jouni.png")
 ```
 
 </div>
@@ -127,7 +127,7 @@ It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, bet
 
 #### Lavinas Yuri
 PhD Student
-```{r Lavinas, echo=FALSE, out.width = '46%', fig.align='left'}
+```{r Lavinas, echo=FALSE, out.width = '67%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 
@@ -135,7 +135,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 #### Shimomoto Erica	
 PhD	Student
-```{r Shimomoto, echo=FALSE, out.width = '35%', fig.align='left'}
+```{r Shimomoto, echo=FALSE, out.width = '55%', fig.align='left'}
 knitr::include_graphics("imgs/erica.jpg")
 ```
 
@@ -144,7 +144,7 @@ knitr::include_graphics("imgs/erica.jpg")
 
 #### Bourahmoune Katia
 PhD	Student
-```{r Bourahmoune, echo=FALSE, out.width = '40%', fig.align='left'}
+```{r Bourahmoune, echo=FALSE, out.width = '60%', fig.align='left'}
 knitr::include_graphics("imgs/katia2.png")
 ```
 
@@ -152,9 +152,60 @@ knitr::include_graphics("imgs/katia2.png")
 
 
 #### Pereira Jair
-Master	Student
-```{r Pereira, echo=FALSE, out.width = '40%', fig.align='left'}
+PhD Student
+```{r Pereira, echo=FALSE, out.width = '60%', fig.align='left'}
 knitr::include_graphics("imgs/jair.jpeg")
+```
+
+-----
+
+#### Maha Mahyub
+Master Student
+```{r maha, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/maha.jpg")
+```
+
+-----
+
+
+#### Mehari Yohannes
+PhD Student
+```{r mehari, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/mehari.JPG")
+```
+
+-----
+
+
+#### Abe Mitsu Teru
+Master Student
+```{r abe, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+-----
+
+#### Yifan
+PhD Student
+```{r yifan, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+-----
+
+
+#### Hajime Karamatsu
+Master Student
+```{r hajime, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
+```
+
+-----
+
+#### Shizuka Akahori
+Master Student
+```{r Shizuka, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
 -----
@@ -170,7 +221,7 @@ knitr::include_graphics("imgs/jair.jpeg")
 
 #### Resendiz	Mariel
 PhD Student
-```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
+```{r RESENDIZ, echo=FALSE, out.width = '34%', fig.align='left'}
 knitr::include_graphics("imgs/mariel.JPG")
 ```
 
@@ -185,7 +236,7 @@ knitr::include_graphics("imgs/mariel.JPG")
 
 #### Jan Freiwald
 PhD Student
-```{r Freiwald, echo=FALSE, out.width = '40%', fig.align='left'}
+```{r Freiwald, echo=FALSE, out.width = '61%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
