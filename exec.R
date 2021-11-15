@@ -4,7 +4,7 @@ library(knitr)
 library(beepr)
 library(dplyr)
 
-setwd("~/Documents/estudos/uga-rub-uts.github.io/")
+setwd("~/Documents/estudos/collabotics2021.github.io/")
 
 knitr::opts_chunk$set()
 
