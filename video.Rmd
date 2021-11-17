@@ -19,6 +19,13 @@ knitr::include_graphics("imgs/ut2.png")
 
 -----
 
+
+```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
+```
+
+-----
+
 ```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/uga2.png")
 ```

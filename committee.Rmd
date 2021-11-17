@@ -22,6 +22,13 @@ knitr::include_graphics("imgs/uga2.png")
 
 -----
 
+
+```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
+```
+
+-----
+
 ```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/cnrs.png")
 ```
@@ -61,8 +68,8 @@ knitr::include_graphics("imgs/c_air.png")
 
 #### Bojan Batalo	
 PhD Student
-```{r Bojan, echo=FALSE, out.width = '89%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+```{r Bojan, echo=FALSE, out.width = '74%', fig.align='left'}
+knitr::include_graphics("imgs/bojan.jpg")
 ```
 
 </div>
@@ -79,7 +86,7 @@ knitr::include_graphics("imgs/joshua.jpg")
 
 <div style="width: 33%; float: right"> 
 
-#### Jouni	Mohamad
+#### Mohamad Jouni 
 Post-Doc	Student
 ```{r JOUNI, echo=FALSE, out.width = '86%', fig.align='left'}
 knitr::include_graphics("imgs/jouni.png")
@@ -109,7 +116,7 @@ knitr::include_graphics("imgs/jouni.png")
 
 
 
-It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, between the University of Grenoble Alpes (UGA) and the University of Tsukuba (UT) as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further. Our vision is that this student-organized event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups.
+<!-- It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, between the University of Grenoble Alpes (UGA) and the University of Tsukuba (UT) as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further. Our vision is that this student-organized event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups. -->
 
 
 
@@ -123,41 +130,25 @@ It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, bet
 
 <div style="width: 33%; float: left;"> 
 
-### University of Tsukuba
 
-#### Lavinas Yuri
+#### Yuri Lavinas
 PhD Student
-```{r Lavinas, echo=FALSE, out.width = '67%', fig.align='left'}
+```{r Lavinas, echo=FALSE, out.width = '79%', fig.align='left'}
 knitr::include_graphics("imgs/myself3.png")
 ```
 
+<!-- [Personal website](https://yurilavinas.github.io/) -->
+
 -----
 
-#### Shimomoto Erica	
+#### Erica	Shimomoto
 PhD	Student
-```{r Shimomoto, echo=FALSE, out.width = '55%', fig.align='left'}
+```{r Shimomoto, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/erica.jpg")
 ```
 
 -----
 
-
-#### Bourahmoune Katia
-PhD	Student
-```{r Bourahmoune, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/katia2.png")
-```
-
------
-
-
-#### Pereira Jair
-PhD Student
-```{r Pereira, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/jair.jpeg")
-```
-
------
 
 #### Maha Mahyub
 Master Student
@@ -167,44 +158,9 @@ knitr::include_graphics("imgs/maha.jpg")
 
 -----
 
-
-#### Mehari Yohannes
-PhD Student
-```{r mehari, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/mehari.JPG")
-```
-
------
-
-
-#### Abe Mitsu Teru
-Master Student
-```{r abe, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
-
------
-
-#### Yifan
+#### Yifan He
 PhD Student
 ```{r yifan, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
-
------
-
-
-#### Hajime Karamatsu
-Master Student
-```{r hajime, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
-```
-
------
-
-#### Shizuka Akahori
-Master Student
-```{r Shizuka, echo=FALSE, out.width = '60%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
@@ -216,13 +172,35 @@ knitr::include_graphics("imgs/missing_avatar.svg")
 
 <div style="width: 33%; float: left;"> 
 
-### University of Grenoble-Alpes
-
 
 #### Resendiz	Mariel
 PhD Student
-```{r RESENDIZ, echo=FALSE, out.width = '34%', fig.align='left'}
+```{r RESENDIZ, echo=FALSE, out.width = '40%', fig.align='left'}
 knitr::include_graphics("imgs/mariel.JPG")
+```
+
+-----
+
+#### Bourahmoune Katia
+PhD	Student
+```{r Bourahmoune, echo=FALSE, out.width = '61%', fig.align='left'}
+knitr::include_graphics("imgs/katia2.png")
+```
+
+-----
+
+#### Mehari Yohannes
+PhD Student
+```{r mehari, echo=FALSE, out.width = '71%', fig.align='left'}
+knitr::include_graphics("imgs/mehari.JPG")
+```
+
+-----
+
+#### Hajime Karamatsu
+Master Student
+```{r hajime, echo=FALSE, out.width = '60%', fig.align='left'}
+knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
 -----
@@ -231,12 +209,36 @@ knitr::include_graphics("imgs/mariel.JPG")
 
 <div style="width: 33%; float: right;"> 
 
-### Ruhr-Universität Bochum
-
 
 #### Jan Freiwald
 PhD Student
-```{r Freiwald, echo=FALSE, out.width = '61%', fig.align='left'}
+```{r Freiwald, echo=FALSE, out.width = '55%', fig.align='left'}
+knitr::include_graphics("imgs/freiwald.jpg")
+```
+
+-----
+
+#### Jair Pereira
+PhD Student
+```{r Pereira, echo=FALSE, out.width = '56%', fig.align='left'}
+knitr::include_graphics("imgs/jair.jpeg")
+```
+
+-----
+
+
+#### Abe Mitsu Teru
+Master Student
+```{r abe, echo=FALSE, out.width = '70%', fig.align='left'}
+knitr::include_graphics("imgs/abe.jpg")
+```
+
+-----
+
+
+#### Shizuka Akahori
+Master Student
+```{r Shizuka, echo=FALSE, out.width = '60%', fig.align='left'}
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 

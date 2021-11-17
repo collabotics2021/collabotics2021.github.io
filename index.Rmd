@@ -6,8 +6,6 @@
 
 <div style="width: 30%; float: right;">
 
-
-
 #### Sponsors
 
 ```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
@@ -18,6 +16,13 @@ knitr::include_graphics("imgs/ut2.png")
 
 ```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/uga2.png")
+```
+
+-----
+
+
+```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
 ```
 
 -----
@@ -48,7 +53,7 @@ knitr::include_graphics("imgs/c_air.png")
 <div style="width: 65%; float: left;">
 
 
-The 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - Recent Trends in Computer Science (CollaboTICS 2021) is a collaborative workshop between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba.
+The 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - Recent Trends in Computer Science and Artificial Intelligence (CollaboTICS 2021) is a collaborative workshop between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba.
 
 Our workshop will consist of sessions of oral presentations and poster presentations. Students, young researchers, and professors from both universities are welcome to present their current or past research in our workshop! We hope that through our workshop, students and professors from both universities can discuss their respective research topics and find opportunities for future collaborations.
 
@@ -64,17 +69,15 @@ The CollaboTICS 2021 is pleased to announce the full virtual conference program 
 
 #### Workshop dates
 
-TBA
-<!-- - December 16-17, 2021 -->
-<!-- - START: 16:00 Japan Time - 08:00 Paris Time. -->
-<!-- - END: 20:00 Japan Time - 12:00 Paris Time. -->
+Workshop Dates: 15 December 2021 - 16 December 2021
 
 #### Submission procedures
 
 TBA
 
-<!-- If you want to present at our workshop, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757). -->
+If you want to present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).
 
-<!-- For more information see the [registration](https://uga-ut-ws.github.io/registration) section. -->
+For more information see the [registration](https://collabotics2021.github.io/registration) section.
 
 </div>
+

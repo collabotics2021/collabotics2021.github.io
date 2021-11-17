@@ -24,6 +24,13 @@ knitr::include_graphics("imgs/uga2.png")
 
 -----
 
+
+```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
+```
+
+-----
+
 ```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/cnrs.png")
 ```
@@ -49,58 +56,63 @@ knitr::include_graphics("imgs/c_air.png")
  
 <div style="width: 65%; float: left;">
 
-All presentations and interaction will be online and LIVE on [Gather](https://gather.town/).
+2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - "Recent Trends in Computer Science and Artificial Intelligence" (CollaboTICS 2021) is a joint collaboration between the University of Tsukuba, the University of Grenoble Alpes, and Ruhr University Bochum. The goal of the workshop is to provide an informal forum for researchers to discuss emerging research directions in computer science and explore new collaboration pathways through oral and poster presentations. The presentations can be on any topic relevant to the computer science research community of the three universities. We particularly encourage presentations pertaining to this year's theme: "Recent Trends in Computer Science" with a focus on the following topics: 
 
-# Important
-
-TBA
-
-<!-- If you want to participate at our workshop, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZnHcmIvAWIu0ILR2KuH8jQTCzUafoFu8cnrWr53syDrRajQ/viewform?gxids=7757). -->
-
-### Deadline for registration
-
-TBA
-
-<!-- - Presenters: December, December, 08, 07:59 Japan Time - December 07, 23:59 Paris Time. -->
-<!-- - General audience: December, 11, 23:59 Japan Time - December, 11, 15:59 Paris Time. -->
-
-## Oral presentation 
-
-TBA
-
-<!-- - Young researcher / Student oral presentation: 15 minutes + 5 minutes for QA. -->
-
-<!-- - Professor oral presentation: 20 minutes + 10 minutes for Questions and Answers. -->
-
-<!-- All oral presenters should send their oral presentation slides (in PDF format) by December 15th, 23:59 (JST). These will be made available after the workshop, at the website. -->
+  - Human-centered AI
+  - Multidisciplinary AI
+  - Machine Learning
+  - Federated / Active Learning
+  - Modelling and Simulation
+  - Signal and Image Processing
+  - Sensors
+  - Evolutionary Algorithms
+  - Optimization
+  - IOT
+  - Data Science
+  - Big Data
+  - Human-Computer Interaction
+  - Robotics
+  - Artificial Life
+  - High Performance Computing 
+  - Related applications
+  
 
 
+**To participate or present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).**
 
-## Poster presentation
+# Submission Instructions
 
-TBA
+The workshop will host two types of presentations: Oral Presentations and Poster Presentations. All submissions will be made through the URL below. Please follow the link for more details on the submission guidelines, and be sure to refer to these instructions well before the deadline. You may submit and update your application online right up until the deadline.
 
-<!-- To be held on the same day as the oral presentation. Each presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session. -->
+## Important dates
+
+- Presenter Registration Deadline: 03 December 2021, 23:59 JST (15:59 CET)
+- Oral Presentation Submission Deadline: 10 December 2021, 23:59 JST (15:59 CET)
+- Poster Presentation Submission Deadline: 10 December 2021, 23:59 JST (15:59 CET)
+- Audience Registration Deadline: 13 December 2021, 23:59 JST (15:59 CET)
 
 
-<!-- All poster presenters should send a "presentation kit" by December, December, 08, 07:59 Japan Time - December 07, 23:59 Paris Time. -->
+### Oral Presentations
 
-<!-- This kit includes: -->
+  -  Young researcher / Student oral presentation: 15 minutes + 5 minutes for QA.
+  -  Professor oral presentation: 20 minutes + 10 minutes for Questions and Answers.
+  - All oral presenters should send their presentation slides to this [email](collabotics2021@gmail.com)
+      1. (in PDF format) by 10 December, 23:59 Japan Standard Time (JST) - 10 December, 15:59 Central European Time (CET). 
+      2. The slides will be made available on the website after the workshop.
 
-<!-- 1. Spotlight Video: They will be made available at the website and at the entrance of poster session room on [Gather](https://gather.town/). -->
-<!-- - 1 minute long video with brief introduction of your presentation. -->
-<!-- - Resolution: 720p or better. -->
-<!-- - Format: mp4. -->
+### Poster Presentations
 
-<!-- 2. Spotlight slides: To be available at the website. -->
-<!-- - Slides used in the spotlight video. -->
-<!-- - 1 to 2 slides. -->
-<!-- - Format: PDF. -->
-<!-- Example of spotlight poster: https://drive.google.com/file/d/18yicA41vHFkrHAADiFty6_mbbn9JuPB6/view?usp=sharing -->
+  - Poster presentation and a 1-minute spotlight video.
+  - Each poster presenter should be at their designated spot on [Gather](https://gather.town/) during the time of their poster session. All poster presenters should send a "poster presentation kit" by 10 December, 23:59 Japan Standard Time (JST) - 10 December, 15:59 Central European Time (CET). 
 
-3. Poster: To be available at the poster session room on [Gather](https://gather.town/).
-- Landscape orientation;
-- Size: Widescreen (16:9)
-<!-- Example of poster: https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing -->
+#### This kit includes:
+
+  - Poster: To be available at the poster session room on Gather. 
+  - Landscape orientation;
+  - Size: Widescreen (16:9) [Click here for an example of a poster](https://drive.google.com/file/d/1uO2CIA6ypEXUsjyD2baO9UW65oNPbdVz/view?usp=sharing)
+  - Spotlight Video: To be available on the website and at the entrance of the poster session room on Gather.
+  - 1 minute, with a brief overview of the poster presentation
+  - Format and resolution: MP4; 720p or better.
+
 
 </div>
