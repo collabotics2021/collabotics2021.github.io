@@ -56,7 +56,6 @@ knitr::include_graphics("imgs/c_air.png")
 
 <br/>
 
------
 
 ## Co-chairs
 
@@ -122,8 +121,6 @@ knitr::include_graphics("imgs/jouni.png")
 
 
 
------
-
 ## General Organization
 
 -----
@@ -139,7 +136,7 @@ knitr::include_graphics("imgs/myself3.png")
 
 <!-- [Personal website](https://yurilavinas.github.io/) -->
 
------
+
 
 #### Erica	Shimomoto
 PhD	Student
@@ -147,7 +144,7 @@ PhD	Student
 knitr::include_graphics("imgs/erica.jpg")
 ```
 
------
+
 
 
 #### Maha Mahyub
@@ -156,7 +153,7 @@ Master Student
 knitr::include_graphics("imgs/maha.jpg")
 ```
 
------
+
 
 #### Yifan He
 PhD Student
@@ -164,7 +161,7 @@ PhD Student
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
------
+
 
 
 
@@ -179,15 +176,15 @@ PhD Student
 knitr::include_graphics("imgs/mariel.JPG")
 ```
 
------
+
 
 #### Bourahmoune Katia
 PhD	Student
-```{r Bourahmoune, echo=FALSE, out.width = '61%', fig.align='left'}
-knitr::include_graphics("imgs/katia2.png")
+```{r Bourahmoune, echo=FALSE, out.width = '68%', fig.align='left'}
+knitr::include_graphics("imgs/katia.jpg")
 ```
 
------
+
 
 #### Mehari Yohannes
 PhD Student
@@ -195,7 +192,7 @@ PhD Student
 knitr::include_graphics("imgs/mehari.JPG")
 ```
 
------
+
 
 #### Hajime Karamatsu
 Master Student
@@ -203,7 +200,7 @@ Master Student
 knitr::include_graphics("imgs/missing_avatar.svg")
 ```
 
------
+
 
 </div>
 
@@ -216,7 +213,7 @@ PhD Student
 knitr::include_graphics("imgs/freiwald.jpg")
 ```
 
------
+
 
 #### Jair Pereira
 PhD Student
@@ -224,7 +221,7 @@ PhD Student
 knitr::include_graphics("imgs/jair.jpeg")
 ```
 
------
+
 
 
 #### Abe Mitsu Teru
@@ -233,16 +230,16 @@ Master Student
 knitr::include_graphics("imgs/abe.jpg")
 ```
 
------
+
 
 
 #### Shizuka Akahori
 Master Student
 ```{r Shizuka, echo=FALSE, out.width = '60%', fig.align='left'}
-knitr::include_graphics("imgs/missing_avatar.svg")
+knitr::include_graphics("imgs/shizuka.jpg")
 ```
 
------
+
 
 </div>
 
