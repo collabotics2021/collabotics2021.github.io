@@ -1,5 +1,5 @@
 ---
- title: "Collabotics 2021"
+ title: "CollaboTICS 2021"
  site: distill::distill_website
  
 ---
@@ -80,7 +80,7 @@ TBA
 
 If you want to present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).
 
-For more information see the [registration](https://collabotics2021.github.io/registration) section.
+For more information see the [registration](https://CollaboTICS2021.github.io/registration) section.
 
 </div>
 

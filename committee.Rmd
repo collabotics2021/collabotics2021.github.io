@@ -115,7 +115,8 @@ knitr::include_graphics("imgs/jouni.png")
 
 
 
-<!-- It is our great pleasure to warmly invite you to the 2020 UGA & UT Workshop, between the University of Grenoble Alpes (UGA) and the University of Tsukuba (UT) as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further. Our vision is that this student-organized event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups. -->
+It is our great pleasure to warmly invite you to the 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - Recent Trends in Computer Science and Artificial Intelligence (CollaboTICS 2021) between the University of Grenoble-Alpes, Ruhr-Universität Bochum and the University of Tsukuba as part of their academic partnership. Here, we hope to promote the international exchange of expertise even further as topics of Artificial Intelligence are becoming of high concern recently. Our vision is that this event will create new research opportunities, encourage open and independent mindsets, and increase the scientific network among our working groups.
+
 
 
 
