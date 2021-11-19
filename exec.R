@@ -16,4 +16,4 @@ knitr::opts_chunk$set()
 
 #Execute
 render_site()
-beep()  #finished rendering
+beep(2)  #finished rendering
