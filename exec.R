@@ -1,4 +1,7 @@
 #Setup
+
+Sys.setenv(RSTUDIO_PANDOC="/Applications/RStudio.app/Contents/MacOS/pandoc")
+
 library(rmarkdown)
 library(knitr)
 library(beepr)

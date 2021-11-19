@@ -2,7 +2,7 @@ name: "CollaboTICS 2021"
 output_dir: "."
 base_url: https://https://uga-ut-ws.github.io/
 navbar:
-  title: "Collabotics 2021"
+  title: "CollaboTICS 2021"
   left:
     - text: "Home"
       href: index.html
