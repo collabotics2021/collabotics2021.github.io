@@ -71,10 +71,17 @@ The CollaboTICS 2021 is pleased to announce the full virtual conference program 
   - Japan time: 4 pm to 9pm.
   - France and German time: 8 am to 1 pm. 
 
+
+
 #### Submission procedures
 
 If you want to present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).
 
 For more information see the [registration](https://CollaboTICS2021.github.io/registration) section.
+
+#### Using Gather
+
+[Click here](https://gather.town/invite?token=KQz_tOL_HoATchjTau33qxs7irtEM4N6) for an example room where prospective participants of the workshop can enter and explore the platform prior the event.
+
 
 </div>

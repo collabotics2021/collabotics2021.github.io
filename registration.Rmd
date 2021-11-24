@@ -114,5 +114,10 @@ The workshop will host two types of presentations: Oral Presentations and Poster
   - 1 minute, with a brief overview of the poster presentation
   - Format and resolution: MP4; 720p or better.
 
+#### Using Gather
+
+[Click here](https://gather.town/invite?token=KQz_tOL_HoATchjTau33qxs7irtEM4N6) for an example room where prospective participants of the workshop can enter and explore the platform prior the event.
+
+
 
 </div>
