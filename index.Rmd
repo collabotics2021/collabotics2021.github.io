@@ -8,42 +8,72 @@
 
 #### Sponsors
 
+<a href = "https://www.tsukuba.ac.jp/en/">
+
 ```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
 knitr::include_graphics("imgs/ut2.png")
 ```
 
+</a>
+
 -----
+
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
 
 ```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/uga2.png")
 ```
+</a>
 
 -----
 
+<a href = "https://www.ruhr-uni-bochum.de/en">
 
 ```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/rub.png")
 ```
 
+</a>
+
 -----
+
+<a href = "https://www.cnrs.fr/en">
 
 ```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/cnrs.png")
 ```
 
+</a>
+
 -----
 
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
 
 ```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
 knitr::include_graphics("imgs/region.png")
 ```
 
+</a>
+
 -----
 
+<a href = "https://air.tsukuba.ac.jp/en/">
 
-```{r c_air, echo=FALSE, out.width = '50%', fig.align='left'}
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left', }
 knitr::include_graphics("imgs/c_air.png")
 ```
+
+</a>
+
+-----
+
+<a href = "https://www.grenoble-inp.fr/en">
+
+```{r inp, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/Grenoble_INP.png")
+```
+
+</a>
 
 
 </div>

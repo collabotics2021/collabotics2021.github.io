@@ -7,54 +7,80 @@
 
 <div style="width: 30%; float: right;">
 
-
-
 #### Sponsors
 
+<a href = "https://www.tsukuba.ac.jp/en/">
 
 ```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
 knitr::include_graphics("imgs/ut2.png")
 ```
 
+</a>
+
 -----
+
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
 
 ```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/uga2.png")
 ```
+</a>
 
 -----
 
+<a href = "https://www.ruhr-uni-bochum.de/en">
 
 ```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/rub.png")
 ```
 
+</a>
+
 -----
+
+<a href = "https://www.cnrs.fr/en">
 
 ```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
 knitr::include_graphics("imgs/cnrs.png")
 ```
 
+</a>
+
 -----
 
+<a href = "https://www.univ-grenoble-alpes.fr/english/">
 
 ```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
 knitr::include_graphics("imgs/region.png")
 ```
 
+</a>
+
 -----
 
+<a href = "https://air.tsukuba.ac.jp/en/">
 
-```{r c_air, echo=FALSE, out.width = '50%', fig.align='left'}
+```{r c_air, echo=FALSE, out.width = '50%', fig.align='left', }
 knitr::include_graphics("imgs/c_air.png")
 ```
+
+</a>
+
+-----
+
+<a href = "https://www.grenoble-inp.fr/en">
+
+```{r inp, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/Grenoble_INP.png")
+```
+
+</a>
 
 
 </div>
 
 
- 
-<div style="width: 65%; float: left;">
+ <div style="width: 65%; float: left;">
 
 2021 International Collaborative Workshop of RUB-UGA-UT, 3rd Edition - "Recent Trends in Computer Science and Artificial Intelligence" (CollaboTICS 2021) is a joint collaboration between the University of Tsukuba, the University of Grenoble Alpes, and Ruhr University Bochum. The goal of the workshop is to provide an informal forum for researchers to discuss emerging research directions in computer science and explore new collaboration pathways through oral and poster presentations. The presentations can be on any topic relevant to the computer science research community of the three universities. We particularly encourage presentations pertaining to this year's theme: "Recent Trends in Computer Science" with a focus on the following topics: 
 
