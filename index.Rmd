@@ -105,6 +105,8 @@ The CollaboTICS 2021 is pleased to announce the full virtual conference program 
 
 #### Submission procedures
 
+We are sorry to anounce that we are no longer accepting new presentations.
+
 If you want to present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).
 
 For more information see the [registration](https://CollaboTICS2021.github.io/registration) section.

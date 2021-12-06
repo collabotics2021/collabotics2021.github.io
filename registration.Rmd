@@ -106,6 +106,8 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
 **To participate or present at our workshop, please fill [this form](https://forms.gle/Tp8p1oDUEjfK3VSn6).**
 
+We are sorry to anounce that we are no longer accepting new presentations.
+
 # Submission Instructions
 
 The workshop will host two types of presentations: Oral Presentations and Poster Presentations. All submissions will be made through the URL below. Please follow the link for more details on the submission guidelines, and be sure to refer to these instructions well before the deadline. You may submit and update your application online right up until the deadline.
