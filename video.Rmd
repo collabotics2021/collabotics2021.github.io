@@ -148,7 +148,7 @@ Suprises in Evolutionary Computation
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/YURILAVINAS_WS_poster_collabotics.png)](Poster_Kits/YURILAVINAS_WS_poster_collabotics.mp4  "Yuri-Poster")
+[![Spotlight video](Poster_Kits/YURILAVINAS_WS_poster_collabotics.png)](Poster_Kits/YURILAVINAS_WS_poster_collabotics_new.mp4  "Yuri-Poster")
 
 </div>
 
@@ -187,7 +187,7 @@ Using Knowledge in Automatic Computer Programming through an Adaptive Genetic Pr
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/YifanAdaptive Knowledge-Driven Program Synthesis.png)](Poster_Kits/Yifanworkshop.mp4.mp4  "Yifan-Poster")
+[![Spotlight video](Poster_Kits/YifanAdaptive Knowledge-Driven Program Synthesis.png)](Poster_Kits/Yifanworkshop.mp4 "Yifan-Poster")
 
 </div>
 
