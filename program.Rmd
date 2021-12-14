@@ -81,87 +81,89 @@ knitr::include_graphics("imgs/Grenoble_INP.png")
 
  <div style="width: 65%; float: left;">
 
-TBA
+
+
 
 <div id="complete-program" class="section level4">
-<!-- <p>For the complete version of the program, <a href="https://drive.google.com/file/d/1f3QHC-n--Rr0JRmcA_SoLLzA-TmNjLBC/view?usp=sharing">click here</a>.</p> -->
+
 </div>
 
 <table border="1">
-<tr>
+<tr style="text-align:center">
   <th colspan=4>DAY 1 - December 15th</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>Japan Time</th>
 <th>Paris Time</th>
 <th>Section A</th>
 <th>Section B</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:00 - 16:10</th>
 <th>08:00 - 08:10</th>
 <th colspan="2">Opening - Keynote Room</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:10 - 16:40</th>
 <th>08:10 - 08:40</th>
-<td colspan="2">Molecularly Interpretable Machine Learning for Computational Pathology <br> Axel Mosig <br>
+<td colspan="2"><i><b>Molecularly Interpretable Machine Learning for Computational Pathology</b></i>
+<br> <i>Axel Mosig</i> <br>
+ 
 Keynote Room
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:40 - 16:45</th>
 <th>08:40 - 08:45</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:45 - 17:05</th>
 <th>08:45 - 09:05</th>
-<td>Robot-assisted voluntary rehabilitation training for patients with shoulder elevation dysfunction from cervical origin <br>
-Margaux Noémie Lafitte<br>
+<td><i><b>Robot-assisted voluntary rehabilitation training for patients with shoulder elevation dysfunction from cervical origin </b></i>
+<br> <i>Margaux Noémie Lafitte</i><br>
 Oral Session Room A
 </td>
-<td>Weakly-supervised learning for (label-free) Computational Pathology<br>
-Joshua Butke <br>
-
+<td><i><b>Weakly-supervised learning for (label-free) Computational Pathology</b></i>
+<br> <i>Joshua Butke</i><br> 
 Oral Session Room B
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>17:05 - 17:25</th>
 <th>09:05 - 09:25</th>
-<td>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography<br>
-Muhammad Wildan Gifari<br>
+<td><i><b>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography</b></i>
+<br> <i>Muhammad Wildan Gifari</i><br>
 
 Oral Session Room A
 </td>
-<td>Direct identification of defects using Kikuchi patterns – A machine learning approach<br>
-Ashish Chauniyal<br>
+<td><i><b>Direct identification of defects using Kikuchi patterns – A machine learning approach</b></i>
+<br> <i>Ashish Chauniyal</i><br>
 Oral Session Room B
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>17:25 - 17:35</th>
 <th>09:25 - 09:35</th>
 <th colspan="2">Coffee break</th>
 </tr>
-<tr>
+<tr style="text-align:center">
 <th>17:35 - 18:05</th>
 <th>09:35 - 10:05</th>
-<td colspan="2">Inner Product in Image Feature Learning<br>
-Takumi Kobayashi<br>
+<td colspan="2"><b><i>Inner Product in Image Feature Learning</b></i>
+<br> <i>Takumi Kobayashi</i><br>
 Keynote Room
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>18:05 - 18:10</th>
 <th>10:05 - 10:10</th>
 <th colspan="2">Coffee break</th>
@@ -169,61 +171,64 @@ Keynote Room
 
 
 
-<tr>
+<tr style="text-align:center">
 <th>18:10 - 18:30</th>
 <th>10:10 - 10:30</th>
-<td>Artistic Intent and the Human Gaze: Using VR to understand how we view images<br>
-Nicholas Schwier<br>
+<td><i><b>Artistic Intent and the Human Gaze: Using VR to understand how we view images</b></i>
+<br> <i>Nicholas Schwier</i><br>
 Oral Session Room A
 
 </td>
-<td>Self-supervised learning for person re-identification. Insigth on unsupervised lifelong learning for robotics vision<br>
-Baptiste Wagner<br>
+<td><i><b>Self-supervised learning for person re-identification. Insigth on unsupervised lifelong learning for robotics vision</b></i>
+<br> <i>Baptiste Wagner</i><br>
 Oral Session Room B
 </td>
 </tr>
 
 
 
-<tr>
+<tr style="text-align:center">
 <th>18:30 - 18:50</th>
 <th>10:30 - 10:50</th>
-<td>Slow Feature Subspace for Action Recognition<br>
-Suzana Rita Alves Beleza<br>
+<td><i><b>Slow Feature Subspace for Action Recognition</b></i>
+<br> <i>Suzana Rita Alves Beleza</i><br>
 Oral Session Room A
 
 </td>
-<td>Computational imaging: A practical application for image spectrometers <br>
-Daniele Picone<br>
+<td><i><b>Computational imaging: A practical application for image spectrometers</b></i>
+<br> <i>Daniele Picone</i><br>
 Oral Session Room B
 
-<tr>
+<tr style="text-align:center">
 <th>18:50 - 19:00</th>
 <th>10:50 - 11:00</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>19:00 - 19:30</th>
 <th>11:00 - 11:30</th>
-<td colspan="2">Agent-based social simulation - modelling human behaviours<br>
-Julie Dugdale & Carole Adam<br>
+<td colspan="2"><b><i>Agent-based social simulation - modelling human behaviours</b></i>
+<br> <i>Julie Dugdale & Carole Adam</i><br>
 Keynote Room
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>18:30 - 18:50</th>
 <th>10:30 - 10:50</th>
-<td>Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data <br>
-Abe Mitsu Teru<br>
+<td><i><b>Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data </b></i>
+<br> <i>Abe Mitsu Teru</i><br>
 Oral Session Room A
 
 </td>
-<td>Hype in funding applications <br>
-Neil Millar<br>
+<td><i><b>Hype in funding applications </b></i>
+<br> <i>Neil Millar</i><br>
 Oral Session Room B
-<tr>
+
+
+
+<tr style="text-align:center">
 <th>19:55 - 21:00</th>
 <th>11:55 - 13:00</th>
 <th colspan="2">Poster session<br>
@@ -237,146 +242,148 @@ Poster Room
 
 
 <table border="1">
-<tr>
+<tr style="text-align:center">
 <th colspan=4>DAY 2 - December 16th</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>Japan Time</th>
 <th>Paris Time</th>
 <th>Section A</th>
 <th>Section B</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:00 - 16:30</th>
 <th>08:00 - 08:30</th>
-<td colspan="2">Deep Neuroevolution
-<br>Tobias Glasmachers<br>
+<td colspan="2"><b><i>Deep Neuroevolution</b></i>
+<br> <i>Tobias Glasmachers</i><br>
 Keynote Room
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>16:30 - 16:35</th>
 <th>08:30 - 08:35</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
 
-<tr>
+<tr style="text-align:center">
 <th>16:35 - 16:55</th>
 <th>08:35 - 08:55</th>
-<td>Ensemble Learning for Cluster Number Detection Based on Shared Nearest Neighbor Graph and Spectral Clustering<br>
-Zhang Weihang<br>
+<td><i><b>Ensemble Learning for Cluster Number Detection Based on Shared Nearest Neighbor Graph and Spectral Clustering</b></i>
+<br> <i>Zhang Weihang</i><br>
 Oral Session Room A
 </td>
 
-<td>On the difference between Bayesian neural networks at finite and infinite width<br>
-Mariia Vladimirova<br>
+<td><i><b>On the difference between Bayesian neural networks at finite and infinite width</b></i>
+<br> <i>Mariia Vladimirova</i><br>
 Oral Session Room B
 </td>
 </tr>
 
 
 
-<tr>
+<tr style="text-align:center">
 <th>16:55 - 17:15</th>
 <th>08:55 - 09:15</th>
-<td>A novel large scale spectral clustering<br>
-Li Hongmin<br>
+<td><i><b>A novel large scale spectral clustering</b></i>
+<br> <i>Li Hongmin</i><br>
 Oral Session Room A
 </td>
-<td>Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets<br>
-Hubert Leterme<br>
+<td><i><b>Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets</b></i>
+<br> <i>Hubert Leterme</i><br>
 Oral Session Room B
 </td>
 </tr>
 
 
-<tr>
+<tr style="text-align:center">
 <th>17:15 - 17:25</th>
 <th>09:15 - 09:25</th>
 <th colspan="2">Coffee break</th>
 </tr>
-<tr>
+<tr style="text-align:center">
 <th>17:25 - 17:55</th>
 <th>09:25 - 09:55</th>
-<td colspan="2">Toward GPU–FPGA Accelerated Computing<br>
-Ryohei Kobayashi<br>
+<td colspan="2"><b><i>Toward GPU–FPGA Accelerated Computing</b></i>
+<br> <i>Ryohei Kobayashi</i><br>
 Keynote Room
 </td>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>17:55 - 18:00</th>
 <th>09:55 - 10:00</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
 
-<tr>
+<tr style="text-align:center">
 <th>18:00 - 18:20</th>
 <th>10:00 - 10:20</th>
-<td>A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison<br>
-  Sannara EK<br>
+<td><i><b>A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison</b></i>
+<br> <i>Sannara EK</i><br>
 Oral Session Room A
 
 </td>
-<td>Deep Unfolding of Iteratively Reweighted RPCA for Wireless Sensing<br>
-Udaya Sampath K.P. Miriya Thanthrige<br>
-Oral Session Room B
+<td><i><b>Deep Unfolding of Iteratively Reweighted RPCA for Wireless Sensing</b></i>
+<br> <i>Udaya Sampath K.P. Miriya Thanthrige</i><br>
+<br>Oral Session Room B
 </td>
 </tr>
 
 
-<tr>
+<tr style="text-align:center">
 <th>18:20 - 18:40</th>
 <th>10:20 - 10:40</th>
-<td>Multi-view federated learning with data collaboration<br>
-  YANG YITAO<br>
+<td><i><b>Multi-view federated learning with data collaboration</b></i>
+<br> <i>YANG YITAO</i><br>
 Oral Session Room A
 
 </td>
-<td>Next Generation Intelligent Spaces<br>
-  Angan Mitra<br>
+<td><i><b>Next Generation Intelligent Spaces</b></i>
+<br> <i>Angan Mitra</i><br>
 Oral Session Room B
 
 
-<tr>
+<tr style="text-align:center">
 <th>18:40 - 18:50</th>
 <th>10:40 - 10:50</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>18:50 - 19:20</th>
 <th>10:50 - 11:20</th>
-<td colspan="2">Sparse Deep Learning<br>
-Johannes Lederer<br>
+<td colspan="2"><b><i>Sparse Deep Learning</b></i>
+<br> <i>Johannes Lederer</i><br>
 Keynote Room
 </td>
 </tr>
 
 
-<tr>
+<tr style="text-align:center">
 <th>19:20 - 19:25</th>
 <th>11:20 - 11:25</th>
 <th colspan="2">Coffee break</th>
 </tr>
 
-<tr>
+<tr style="text-align:center">
 <th>19:25 - 11:25</th>
 <th>11:25 - 11:45</th>
-<td>UrbanSound Classification using Convolutional Neural Network Features and Mutual Subspace Method <br>
-Maha Mahyub<br>
+<td><i><b>Classifying Urban Sounds with Subspaces of Deep Neural Network Features</b></i>
+<br> <i>Maha Mahyub</i><br>
 Oral Session Room A
 
 </td>
-<td>Temporal Tensor Analysis on Product Grassmann Manifold<br>
-Bojan Batalo<br>
+<td><i><b>Temporal Tensor Analysis on Product Grassmann Manifold</b></i>
+<br> <i>Bojan Batalo</i><br>
 Oral Session Room B
-<tr>
+
+
+<tr style="text-align:center">
 <th>19:45 - 20:50</th>
 <th>11:45 - 12:50</th>
 <th colspan="2">Poster session<br>
