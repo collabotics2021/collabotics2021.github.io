@@ -148,7 +148,7 @@ Suprises in Evolutionary Computation
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/YURILAVINAS_WS_poster_collabotics.png)](Poster_Kits/YURILAVINAS_WS_poster_collabotics.mp4  Yuri-Poster")
+[![Spotlight video](Poster_Kits/YURILAVINAS_WS_poster_collabotics.png)](Poster_Kits/YURILAVINAS_WS_poster_collabotics.mp4  "Yuri-Poster")
 
 </div>
 
@@ -168,7 +168,7 @@ Slow Feature Subspace for Action Recognition
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/suzana_poster.png)](Poster_Kits/suzana_spotlight_slides.mp4  Suzana-Poster")
+[![Spotlight video](Poster_Kits/suzana_poster.png)](Poster_Kits/suzana_spotlight_slides.mp4  "Suzana-Poster")
 
 </div>
 
@@ -187,7 +187,7 @@ Using Knowledge in Automatic Computer Programming through an Adaptive Genetic Pr
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/YifanAdaptive Knowledge-Driven Program Synthesis.png)](Poster_Kits/Yifanworkshop.mp4.mp4  Yifan-Poster")
+[![Spotlight video](Poster_Kits/YifanAdaptive Knowledge-Driven Program Synthesis.png)](Poster_Kits/Yifanworkshop.mp4.mp4  "Yifan-Poster")
 
 </div>
 
@@ -205,7 +205,7 @@ Motion feedback in training with musical loudness change
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/wang_poster_tsukuba.png)](Poster_Kits/wang_video_tsukuba.mp4  Wang-Poster")
+[![Spotlight video](Poster_Kits/wang_poster_tsukuba.png)](Poster_Kits/wang_video_tsukuba.mp4  "Wang-Poster")
 </div>
 
 <br>
@@ -223,7 +223,7 @@ Realible identification and quantification of neural cells in microscopic images
 
 - Click on the image to watch the video:
 
-[![Spotlight video](Poster_Kits/foerster_Poster_CollaboTICS 2021.png)](Poster_Kits/foerster_CollaboTICS2021_spotlight.mp4  Nils-Poster")
+[![Spotlight video](Poster_Kits/foerster_Poster_CollaboTICS 2021.png)](Poster_Kits/foerster_CollaboTICS2021_spotlight.mp4  "Nils-Poster")
 
 </div>
 
