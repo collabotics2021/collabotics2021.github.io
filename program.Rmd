@@ -215,8 +215,8 @@ Keynote Room
 </tr>
 
 <tr style="text-align:center">
-<th>18:30 - 18:50</th>
-<th>10:30 - 10:50</th>
+<th>19:35 - 19:55</th>
+<th>11:35 - 11:55</th>
 <td><i><b>Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data </b></i>
 <br> <i>Abe Mitsu Teru</i><br>
 Presentation Room A
