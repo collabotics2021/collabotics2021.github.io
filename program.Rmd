@@ -127,11 +127,11 @@ Keynote Room
 <th>08:45 - 09:05</th>
 <td><i><b>Robot-assisted voluntary rehabilitation training for patients with shoulder elevation dysfunction from cervical origin </b></i>
 <br> <i>Margaux Noémie Lafitte</i><br>
-Oral Session Room A
+Presentation Room A
 </td>
 <td><i><b>Weakly-supervised learning for (label-free) Computational Pathology</b></i>
 <br> <i>Joshua Butke</i><br> 
-Oral Session Room B
+Presentation Room B
 </td>
 </tr>
 
@@ -141,11 +141,11 @@ Oral Session Room B
 <td><i><b>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography</b></i>
 <br> <i>Muhammad Wildan Gifari</i><br>
 
-Oral Session Room A
+Presentation Room A
 </td>
 <td><i><b>Direct identification of defects using Kikuchi patterns – A machine learning approach</b></i>
 <br> <i>Ashish Chauniyal</i><br>
-Oral Session Room B
+Presentation Room B
 </td>
 </tr>
 
@@ -176,12 +176,12 @@ Keynote Room
 <th>10:10 - 10:30</th>
 <td><i><b>Artistic Intent and the Human Gaze: Using VR to understand how we view images</b></i>
 <br> <i>Nicholas Schwier</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Self-supervised learning for person re-identification. Insigth on unsupervised lifelong learning for robotics vision</b></i>
 <br> <i>Baptiste Wagner</i><br>
-Oral Session Room B
+Presentation Room B
 </td>
 </tr>
 
@@ -192,12 +192,12 @@ Oral Session Room B
 <th>10:30 - 10:50</th>
 <td><i><b>Slow Feature Subspace for Action Recognition</b></i>
 <br> <i>Suzana Rita Alves Beleza</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Computational imaging: A practical application for image spectrometers</b></i>
 <br> <i>Daniele Picone</i><br>
-Oral Session Room B
+Presentation Room B
 
 <tr style="text-align:center">
 <th>18:50 - 19:00</th>
@@ -219,12 +219,12 @@ Keynote Room
 <th>10:30 - 10:50</th>
 <td><i><b>Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data </b></i>
 <br> <i>Abe Mitsu Teru</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Hype in funding applications </b></i>
 <br> <i>Neil Millar</i><br>
-Oral Session Room B
+Presentation Room B
 
 
 
@@ -274,12 +274,12 @@ Keynote Room
 <th>08:35 - 08:55</th>
 <td><i><b>Ensemble Learning for Cluster Number Detection Based on Shared Nearest Neighbor Graph and Spectral Clustering</b></i>
 <br> <i>Zhang Weihang</i><br>
-Oral Session Room A
+Presentation Room A
 </td>
 
 <td><i><b>On the difference between Bayesian neural networks at finite and infinite width</b></i>
 <br> <i>Mariia Vladimirova</i><br>
-Oral Session Room B
+Presentation Room B
 </td>
 </tr>
 
@@ -290,11 +290,11 @@ Oral Session Room B
 <th>08:55 - 09:15</th>
 <td><i><b>A novel large scale spectral clustering</b></i>
 <br> <i>Li Hongmin</i><br>
-Oral Session Room A
+Presentation Room A
 </td>
 <td><i><b>Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets</b></i>
 <br> <i>Hubert Leterme</i><br>
-Oral Session Room B
+Presentation Room B
 </td>
 </tr>
 
@@ -325,12 +325,12 @@ Keynote Room
 <th>10:00 - 10:20</th>
 <td><i><b>A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison</b></i>
 <br> <i>Sannara EK</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Deep Unfolding of Iteratively Reweighted RPCA for Wireless Sensing</b></i>
 <br> <i>Udaya Sampath K.P. Miriya Thanthrige</i><br>
-<br>Oral Session Room B
+<br>Presentation Room B
 </td>
 </tr>
 
@@ -340,12 +340,12 @@ Oral Session Room A
 <th>10:20 - 10:40</th>
 <td><i><b>Multi-view federated learning with data collaboration</b></i>
 <br> <i>YANG YITAO</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Next Generation Intelligent Spaces</b></i>
 <br> <i>Angan Mitra</i><br>
-Oral Session Room B
+Presentation Room B
 
 
 <tr style="text-align:center">
@@ -375,12 +375,12 @@ Keynote Room
 <th>11:25 - 11:45</th>
 <td><i><b>Classifying Urban Sounds with Subspaces of Deep Neural Network Features</b></i>
 <br> <i>Maha Mahyub</i><br>
-Oral Session Room A
+Presentation Room A
 
 </td>
 <td><i><b>Temporal Tensor Analysis on Product Grassmann Manifold</b></i>
 <br> <i>Bojan Batalo</i><br>
-Oral Session Room B
+Presentation Room B
 
 
 <tr style="text-align:center">
