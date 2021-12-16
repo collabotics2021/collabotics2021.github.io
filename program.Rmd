@@ -138,8 +138,8 @@ Presentation Room B
 <tr style="text-align:center">
 <th>17:05 - 17:25</th>
 <th>09:05 - 09:25</th>
-<td><i><b>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography</b></i>
-<br> <i>Muhammad Wildan Gifari</i><br>
+<td><i><b> </b></i>
+<br> <i> </i><br>
 
 Presentation Room A
 </td>
@@ -378,8 +378,8 @@ Keynote Room
 Presentation Room A
 
 </td>
-<td><i><b>Temporal Tensor Analysis on Product Grassmann Manifold</b></i>
-<br> <i>Bojan Batalo</i><br>
+<td><i><b>Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography</b></i>
+<br> <i>Muhammad Wildan Gifari</i><br>
 Presentation Room B
 
 
