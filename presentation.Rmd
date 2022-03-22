@@ -1,0 +1,169 @@
+---
+  title: "Presentation videos"
+  site: distill::distill_website
+  
+---
+  
+  <div style="width: 30%; float: right;">
+  
+  #### Sponsors
+  
+  <a href = "https://www.tsukuba.ac.jp/en/">
+  
+  ```{r ut_sponsors, echo=FALSE, out.width = '52%', fig.align='left'}
+knitr::include_graphics("imgs/ut2.png")
+```
+
+</a>
+  
+  -----
+  
+  <a href = "https://www.univ-grenoble-alpes.fr/english/">
+  
+  ```{r uga_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/uga2.png")
+```
+</a>
+  
+  -----
+  
+  <a href = "https://www.ruhr-uni-bochum.de/en">
+  
+  ```{r rub_sponsors, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/rub.png")
+```
+
+</a>
+  
+  -----
+  
+  <a href = "https://www.cnrs.fr/en">
+  
+  ```{r cnrs, echo=FALSE, out.width = '42%', fig.align='left'}
+knitr::include_graphics("imgs/cnrs.png")
+```
+
+</a>
+  
+  -----
+  
+  <a href = "https://www.univ-grenoble-alpes.fr/english/">
+  
+  ```{r region, echo=FALSE, out.width = '72%', fig.align='left'}
+knitr::include_graphics("imgs/region.png")
+```
+
+</a>
+  
+  -----
+  
+  <a href = "https://air.tsukuba.ac.jp/en/">
+  
+  ```{r c_air, echo=FALSE, out.width = '50%', fig.align='left', }
+knitr::include_graphics("imgs/c_air.png")
+```
+
+</a>
+  
+  -----
+  
+  <a href = "https://www.grenoble-inp.fr/en">
+  
+  ```{r inp, echo=FALSE, out.width = '50%', fig.align='left'}
+knitr::include_graphics("imgs/Grenoble_INP.png")
+```
+
+</a>
+  
+  
+  </div>
+
+
+
+<div>
+
+## Keynote Presentations: 
+
+-----
+
+K1: Molecularly Interpretable Machine Learning for Computational Pathology, Axel Mosig, Ruhr-Universität Bochum
+
+
+K2: Inner Product in Image Feature Learning, Takumi Kobayashi, University of Tsukuba
+https://drive.google.com/file/d/1ePn-QnPMdYWeqqDQM75L4MupRo4Kc80E/view?usp=sharing
+
+K3: Agent-based social simulation - modelling human behaviours, Julie Dugdale and Carole Adam, University of Grenoble-Alpes
+https://drive.google.com/file/d/1daGXm5vZf0tjrJ1HFfNCt4SHpKClwWQn/view?usp=sharing
+
+K4: Deep Neuroevolution, Tobias Glasmachers, Ruhr-Universität Bochum
+https://drive.google.com/file/d/1_doL__-K8zgnmXm3gVwdxbf2EU623Gt2/view?usp=sharing
+
+K5: Toward GPU–FPGA Accelerated Computing, Ryohei Kobayashi, University of Tsukuba
+https://drive.google.com/file/d/1iKzqpQGfToChzltaUAnG_jpzrLTQdDHa/view?usp=sharing
+
+K6: Sparse Deep Learning, Johannes Lederer, Ruhr-Universität Bochum
+https://drive.google.com/file/d/1Y5zbiaWB25CIFtS-cumulyKSvdJk6J62/view?usp=sharing
+
+-----
+
+## Oral Sessions Presentations: 
+
+-----
+
+S1: Robot-assisted voluntary rehabilitation training for patients with shoulder elevation dysfunction from cervical origin,  Margaux Noémie Lafitte, University of Tsukuba  
+https://drive.google.com/file/d/13OEF3ee3q-8McyVrgeBmci7iZTDC3UPh/view?usp=sharing
+
+S2: Tele-operated Probe Controller to Assist Doctor Performing Prone Position Echocardiography, Muhammad Wildan Gifari, University of Tsukuba
+
+S3: Weakly-supervised learning for (label-free) Computational Pathology, Joshua Butke, Ruhr-Universität Bochum
+
+S4: Direct identification of defects using Kikuchi patterns – A machine learning approach,  Ashish Chauniyal, Ruhr-Universität Bochum
+
+S5: Artistic Intent and the Human Gaze: Using VR to understand how we view images, Nicholas Schwier, University of Tsukuba  
+https://drive.google.com/file/d/1TnqpN2n1GXj0eISGs5kHO-oXvZNJvEBk/view?usp=sharing
+
+S6: Slow Feature Subspace for Action Recognition, Suzana Rita Alves Beleza, University of Tsukuba
+https://drive.google.com/file/d/1DbwbRytH1yVhJ0ou8OKsZn3Hwwr22HL4/view?usp=sharing
+
+S7: Self-supervised learning for person re-identification. Insight on unsupervised lifelong learning for robotics vision, Baptiste Wagner, University of Grenoble-Alpes 
+https://drive.google.com/file/d/11DKKUoluFfD0yhY7h3mesrFybVKWva40/view?usp=sharing
+
+S8: Computational imaging: A practical application for image spectrometers, Daniele Picone, University of Grenoble-Alpes  
+https://drive.google.com/file/d/1fGZCUPcG09qS4UEocOB7_a0uEj2Ip01m/view?usp=sharing
+
+S9: Epidemic Simulation on Small Community Using an Agent-Based Model Generated From OpenStreetMap Data, Abe Mitsu Teru, University of Tsukuba
+https://drive.google.com/file/d/1zq2bSc61h34SYrpMyVP8b_hSfZH_7G9V/view?usp=sharing
+
+S10: Hype in funding applications,  Neil Millar, University of Tsukuba
+https://drive.google.com/file/d/1fW9y9PwyEOlUwnNhCgvHDERc2Bfc5kw1/view?usp=sharing
+
+S11: Ensemble Learning for Cluster Number Detection Based on Shared Nearest Neighbor Graph and Spectral Clustering, ZHANG WEIHANG, University of Tsukuba
+
+S12: A Novel Large Scale Spectral Clustering , Li Hongmin, University of Tsukuba 
+
+S13: On the difference between Bayesian neural networks at finite and infinite width, Mariia Vladimirov, University of Grenoble-Alpes 
+https://drive.google.com/file/d/1dRb3OBgusHrmijEUFjCp5hS-dseU110q/view?usp=sharing
+
+S14: Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets,  Hubert Leterme, University of Grenoble-Alpes  
+https://drive.google.com/file/d/1gU5JFW4LumoUmylbzhcyKXyWlEHoDsP0/view?usp=sharing
+
+S15: A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison, Sannara EK, University of Grenoble-Alpes 
+https://drive.google.com/file/d/1NS9hzUI5Sbpjzh33x4jw0v92766A8N7_/view?usp=sharing
+
+S16: Multi-view federated learning with data collaboration, YANG YITAO,  University of Tsukuba
+
+S17: Deep Unfolding of Iteratively Reweighted RPCA for Wireless Sensing, Udaya Sampath K.P. Miriya Thanthrige, Ruhr-Universität Bochum
+https://drive.google.com/file/d/1UkCL9adCFjNcubKV4BuSTcWL07X16ls1/view?usp=sharing
+
+S18: Next Generation Intelligent Spaces, Angan Mitra, University of Grenoble-Alpes 
+https://drive.google.com/file/d/1IOhrEWZIX8TNakJLlFBZyvTXNalIyGy_/view?usp=sharing
+
+S19: Classifying Urban Sounds with Subspaces of Deep Neural Network Features, Maha Mahyub, University of Tsukuba
+
+S20: Teleoperated Probe Controller to Assist Doctor in Performing Prone-Position Echocardiography
+https://drive.google.com/file/d/1IPQr5TZDkjGnH3vH6IWJDNtzet398URe/view?usp=sharing
+
+-----
+
+
+</div>
